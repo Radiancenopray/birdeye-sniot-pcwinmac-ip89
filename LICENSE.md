@@ -1,4 +1,4 @@
-# 
+# 开源 birdeye sniper bot 工具 Mac OS版 | 轻量 birdeye sniper bot 工具 PC Windows版。集成 格式转换 和 回滚处理，跨平台性能最大化。
 
 
 
